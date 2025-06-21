@@ -7,4 +7,6 @@ Ecommernce JS
 4.  create  function to get product list (main.js) file
 5. Show product list on home page
 6. Increase & Decrese the quantity of product 
-7.
+7. Add To Cart Functionality
+8. Define the addToCart Function
+9.  FindCurrent Card Price & Quantity
