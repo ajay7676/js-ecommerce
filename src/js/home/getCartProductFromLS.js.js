@@ -6,7 +6,6 @@ export const getCartProductFromLS = () => {
         return [];
      }
      cartProduts = JSON.parse(cartProduts);
-        console.log(cartProduts)
         getupdateValue.innerText = cartProduts.length
 
       return  cartProduts;
