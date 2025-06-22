@@ -8,6 +8,5 @@ export const getCartProductFromLS = () => {
      cartProduts = JSON.parse(cartProduts);
         getupdateValue.innerText = cartProduts.length
 
-      return  cartProduts;
-    
+      return  cartProduts; 
 }

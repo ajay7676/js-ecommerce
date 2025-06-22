@@ -10,3 +10,5 @@ Ecommernce JS
 7. Add To Cart Functionality
 8. Define the addToCart Function
 9.  FindCurrent Card Price & Quantity
+10. Show Card list in Cart page
+11.
